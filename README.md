@@ -1,2 +1,2 @@
 # AI-Chatbots-Prediction-Models-Using-Regression
-Predictive Modelling for AI System Metrics using Regression
+Repository containing the Jupyter Notebook for the Predictive Modelling for AI System Metrics using Regression Project.
